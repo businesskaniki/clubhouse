@@ -1,0 +1,9 @@
+body{
+  overflow-x: hidden;
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Redressed&family=Roboto:wght@100&family=Signika:wght@300;400;500;600;700&family=Space+Grotesk:wght@300&display=swap');
+
+}
+html{
+  background-color:#FFFFFF ;
+  box-sizing:  border-box;
+}
